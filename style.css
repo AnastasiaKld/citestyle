@@ -1,0 +1,18 @@
+h1 {
+  color: #2E8B57;
+  font-family: Courier New, monospace;
+}
+
+.header__button {
+  border-style: double;
+  background: #AFEEEE;
+}
+
+p {
+  quotes: "«" "»";
+  background: #87CEEB;
+  font-family: URW Chancery L, cursive;
+  text-shadow: 1px 1px 2px black;
+  border: 5px solid blue;
+  border-style: dotted;
+}
